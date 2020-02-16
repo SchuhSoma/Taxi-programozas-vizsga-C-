@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\Taxi\Taxi\bin\Debug\Taxi.exe.config
+C:\Users\Soma\Documents\C#2\Taxi\Taxi\bin\Debug\Taxi.exe
+C:\Users\Soma\Documents\C#2\Taxi\Taxi\bin\Debug\Taxi.pdb
+C:\Users\Soma\Documents\C#2\Taxi\Taxi\obj\Debug\Taxi.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Taxi\Taxi\obj\Debug\Taxi.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Taxi\Taxi\obj\Debug\Taxi.exe
+C:\Users\Soma\Documents\C#2\Taxi\Taxi\obj\Debug\Taxi.pdb
